@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    height: 100vh;
+}
+
+.main-heading {
+    color: #690cb0;
+    font-weight: bold;
+}
+
+.description {
+    color: #3e4c59;
+    font-weight: 500;
+}
+
+.image {
+    height: 80px;
+    width: 75px;
+}
+
+.timer {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.card-container {
+    background-color: #f2ebfe;
+    border-style: solid;
+    padding: 20px;
+    border-color: #9aa5b1;
+    border-radius: 8px;
+
+}
+
+.result-element {
+    background-color: #f2ebfe;
+    border-style: solid;
+    padding: 20px;
+    border-color: #9aa5b1;
+    border-radius: 8px;
+}
+
+.submit-button {
+    background-color: #690cb0;
+    border-width: 0px;
+    height: 35px;
+    color: #ffffff;
+    font-size: 15px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.reset-button {
+    background-color: #ffffff;
+    border-width: 0px;
+    height: 35px;
+    color: #3e4c59;
+    font-size: 15px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.input-element {
+    border-radius: 8px;
+    border-color: #9aa5b1;
+    border-style: solid;
+}
+
+.quote-display {
+    font-family: "Roboto";
+    font-weight: 400;
+}
